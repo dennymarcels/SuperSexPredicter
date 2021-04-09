@@ -1,4 +1,4 @@
-# SUPER SEX PREDICTER
+# ⚥ SUPER SEX PREDICTER ⚥
 
 This repository is dedicated to a sex classifier that is based on some clinical and demographic information.
 
